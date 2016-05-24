@@ -1,2 +1,1 @@
-Example is of https://github.com/nervgh/angular-file-upload
-and just run live-server from root folder.
+Just run live-server from root folder.
